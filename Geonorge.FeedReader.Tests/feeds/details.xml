@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:gml="http://www.opengis.net/gml" xmlns:georss="http://www.georss.org/georss" xmlns:inspire_dls="http://inspire.ec.europa.eu/schemas/inspire_dls/1.0" xmlns="http://www.w3.org/2005/Atom">
+	<generator version="2017.1.2.1" uri="https://nedlasting.geonorge.no/fmeserver"/>
+	<id>https://nedlasting.geonorge.no</id>
+	<link rel="self" href="https://nedlasting.geonorge.no" type="application/atom+xml"/>
+	<rights>Kartverket</rights>
+	<subtitle>GEOJSON-format</subtitle>
+	<title>Administrative enheter kommuner</title>
+	<updated>2018-12-13T13:51Z</updated>
+	<entry>
+		<author>
+			<name>Kartverket</name>
+		</author>
+		<category term="EPSG:25833" label="EPSG/0/25833" scheme="http://www.opengis.net/def/crs/"/>
+        <category term="GeoJSON" label="GeoJSON" scheme="https://register.geonorge.no/metadata-kodelister/vektorformater/" />
+        <category term="0000" label="Norge" scheme="https://register.geonorge.no/sosi-kodelister/nasjonsnummer-alle/" />
+		<inspire_dls:spatial_dataset_identifier_code>041f1e6e-bdbc-4091-b48f-8a5990f3cc5b</inspire_dls:spatial_dataset_identifier_code>
+		<inspire_dls:spatial_dataset_identifier_namespace>http://www.geonorge.no/</inspire_dls:spatial_dataset_identifier_namespace>
+		<content type="html">Trykk på linken for å laste ned landsdekkende data i koordinatsystemet EPSG:25833. &lt;br /&gt;  &lt;a href="https://nedlasting.geonorge.no/geonorge/Basisdata/Kommuner/GEOJSON/Basisdata_0000_Norge_25833_Kommuner_GEOJSON.zip"&gt;GEOJSON-format, Landsdekkende&lt;\a&gt;</content>
+		<id>https://nedlasting.geonorge.no/geonorge/Basisdata/Kommuner/GEOJSON/Basisdata_0000_Norge_25833_Kommuner_GEOJSON.zip_2018-11-15T09:20:55</id>
+		<link rel="alternate" href="https://nedlasting.geonorge.no/geonorge/Basisdata/Kommuner/GEOJSON/Basisdata_0000_Norge_25833_Kommuner_GEOJSON.zip" type="application/gml+xml;version=3.2.1" title="Datasettet som GML-fil i EPSG:25833"/>
+		<published>2018-12-13T14:51:40+01:00</published>
+		<rights>Kartverket</rights>
+		<title>GEOJSON-format, Landsdekkende</title>
+		<updated>2018-11-15T09:20:55</updated>
+	</entry>
+	<entry>
+		<author>
+			<name>Kartverket</name>
+		</author>
+		<category term="EPSG:25832" scheme="http://www.opengis.net/def/crs/" label="EPSG/0/25832"/>
+		<category term="GeoJSON" label="GeoJSON" scheme="https://register.geonorge.no/metadata-kodelister/vektorformater/" />
+        <category term="01" label="Østfold" scheme="https://register.geonorge.no/sosi-kodelister/fylkesnummer-alle/" />
+		<inspire_dls:spatial_dataset_identifier_code>041f1e6e-bdbc-4091-b48f-8a5990f3cc5b</inspire_dls:spatial_dataset_identifier_code>
+		<inspire_dls:spatial_dataset_identifier_namespace>http://www.geonorge.no/</inspire_dls:spatial_dataset_identifier_namespace>
+		<content type="html">Trykk på linken for å laste ned data for fylke 01, Østfold i koordinatsystemet EPSG:25832. &lt;br /&gt;  &lt;a href="https://nedlasting.geonorge.no/geonorge/Basisdata/Kommuner/GEOJSON/Basisdata_01_Ostfold_25832_Kommuner_GEOJSON.zip"&gt;GEOJSON-format, 01 Østfold&lt;\a&gt;</content>
+		<id>https://nedlasting.geonorge.no/geonorge/Basisdata/Kommuner/GEOJSON/Basisdata_01_Ostfold_25832_Kommuner_GEOJSON.zip_2018-11-15T08:16:07</id>
+		<link rel="alternate" href="https://nedlasting.geonorge.no/geonorge/Basisdata/Kommuner/GEOJSON/Basisdata_01_Ostfold_25832_Kommuner_GEOJSON.zip" type="application/gml+xml;version=3.2.1" title="Datasettet som GML-fil i EPSG:25832"/>
+		<published>2018-12-13T14:51:40+01:00</published>
+		<rights>Kartverket</rights>
+		<title>GEOJSON-format, 01 Østfold</title>
+		<updated>2018-11-15T08:16:07</updated>
+	</entry>
+	<entry>
+		<author>
+			<name>Kartverket</name>
+		</author>
+		<category term="EPSG:25833" scheme="http://www.opengis.net/def/crs/" label="EPSG/0/25833"/>
+		<category term="GeoJSON" label="GeoJSON" scheme="https://register.geonorge.no/metadata-kodelister/vektorformater/" />
+		<category term="0101" label="Halden" scheme="https://register.geonorge.no/sosi-kodelister/kommunenummer-alle" />
+		<inspire_dls:spatial_dataset_identifier_code>041f1e6e-bdbc-4091-b48f-8a5990f3cc5b</inspire_dls:spatial_dataset_identifier_code>
+		<inspire_dls:spatial_dataset_identifier_namespace>http://www.geonorge.no/</inspire_dls:spatial_dataset_identifier_namespace>
+		<content type="html">Trykk på linken for å laste ned data for kommune 0101, Halden i koordinatsystemet EPSG:25833. &lt;br /&gt;  &lt;a href="https://nedlasting.geonorge.no/geonorge/Basisdata/Kommuner/GEOJSON/Basisdata_0101_Halden_25833_Kommuner_GEOJSON.zip"&gt;GEOJSON-format,  0101, Halden&lt;\a&gt;</content>
+		<id>https://nedlasting.geonorge.no/geonorge/Basisdata/Kommuner/GEOJSON/Basisdata_0101_Halden_25833_Kommuner_GEOJSON.zip_2018-11-15T05:21:28</id>
+		<link rel="alternate" href="https://nedlasting.geonorge.no/geonorge/Basisdata/Kommuner/GEOJSON/Basisdata_0101_Halden_25833_Kommuner_GEOJSON.zip" type="application/gml+xml;version=3.2.1" title="Datasettet som GML-fil i EPSG:25833"/>
+		<published>2018-12-13T14:51:40+01:00</published>
+		<rights>Kartverket</rights>
+		<title>GEOJSON-format, 0101, Halden</title>
+		<updated>2018-11-15T05:21:28</updated>
+	</entry>
+</feed>

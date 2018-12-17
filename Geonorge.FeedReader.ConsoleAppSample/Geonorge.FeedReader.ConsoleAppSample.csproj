@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>netcoreapp2.1</TargetFramework>
+        <LangVersion>7.1</LangVersion>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Geonorge.FeedReader\Geonorge.FeedReader.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="CodeHollow.FeedReader" Version="1.1.5" />
+    </ItemGroup>
+
+</Project>

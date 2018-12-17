@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:georss="http://www.georss.org/georss" xmlns:inspire_dls="http://inspire.ec.europa.eu/schemas/inspire_dls/1.0">
+  <title>Geonorge AtomFeeds - alltid oppdatert</title>
+  <subtitle>Tjenestefeed for alle datasett tilgjengelige i Geonorge.</subtitle>
+  <link href="https://www.geonorge.no/geonetwork/srv/nor/xml_iso19139?uuid=bbacf1b5-9170-4b06-93e8-1069feba73e0 " rel="describedby" type="application/xml" title="Download Service Feed Metadata"/>
+  <link href="http://nedlasting.geonorge.no/Tjenestefeed.xml" hreflang="no-nb" rel="self" type="application/atom+xml" title="Download Service Feed"/>
+  <link href="http://www.weichand.de:8080/opensearchdls/verwaltungsgrenzen" hreflang="de" rel="search" type="application/opensearchdescription+xml" title="OpenSearch Description"/>
+  <id>http://nedlasting.geonorge.no/Tjenestefeed.xml</id>
+  <rights>Copyright den enkelte dataeier</rights>
+  <updated>2013-01-03T00:00:00+02:00</updated>
+  <author>
+    <name>Geonorge</name>
+    <email>post@geonorge.no</email>
+  </author>	
+  <entry>
+    <title>Administrative enheter kommuner GEOJSON-format</title>
+	<summary>(Dette datasettet er tilgjengelig som 2019-versjon under egen oppføring i Geonorge: Administrative enheter 2019.)
+
+Datasettet viser kommuneinndelingen i landet med de mest nøyaktige grenser som er registrert digitalt og som er samlet i ett datasett. 
+
+Kommunene avgrenses av følgende grensetyper: riksgrense, territorialgrense, avgrensningslinje i sjø, fylkesgrense og kommunegrense.
+
+I tillegg inneholder datasettet grunnlinje og 1 nautisk mil, som er juridiske linjer utenfor kysten. 
+
+Flatene inneholder egenskaper som forteller om offisielle kommunenumre. De offisielle norske, samiske og kvenske navnene for kommunene er hentet fra SSR. I tillegg finnes informasjon om samiske forvaltningsområder.
+
+Geometrien er avledet fra matrikkelen, som blir ajourført av kommunene. Riksgrense og territorialgrense er lagt inn fra Kartverkets egne etablerte filer.</summary>
+    <inspire_dls:spatial_dataset_identifier_code>041f1e6e-bdbc-4091-b48f-8a5990f3cc5b</inspire_dls:spatial_dataset_identifier_code>
+    <inspire_dls:spatial_dataset_identifier_namespace>http://www.geonorge.no/</inspire_dls:spatial_dataset_identifier_namespace>
+    <link>http://nedlasting.geonorge.no/fmedatastreaming/ATOM-feeds/AdministrativeEnheterKommuner_AtomFeedGEOJSON.fmw</link>
+    <rights>Kartverket</rights>
+    <updated>2018-11-15T09:20:55</updated>
+    <author>
+      <name>Kartverket</name>
+    </author>
+    <category term="EPSG:25833" scheme="http://www.opengis.net/def/crs/" label="EPSG/0/25833"/>
+    <content type="html">(Dette datasettet er tilgjengelig som 2019-versjon under egen oppføring i Geonorge: Administrative enheter 2019.)
+
+Datasettet viser kommuneinndelingen i landet med de mest nøyaktige grenser som er registrert digitalt og som er samlet i ett datasett. 
+
+Kommunene avgrenses av følgende grensetyper: riksgrense, territorialgrense, avgrensningslinje i sjø, fylkesgrense og kommunegrense.
+
+I tillegg inneholder datasettet grunnlinje og 1 nautisk mil, som er juridiske linjer utenfor kysten. 
+
+Flatene inneholder egenskaper som forteller om offisielle kommunenumre. De offisielle norske, samiske og kvenske navnene for kommunene er hentet fra SSR. I tillegg finnes informasjon om samiske forvaltningsområder.
+
+Geometrien er avledet fra matrikkelen, som blir ajourført av kommunene. Riksgrense og territorialgrense er lagt inn fra Kartverkets egne etablerte filer.&lt;br/&gt;&lt;a href="http://nedlasting.geonorge.no/fmedatastreaming/ATOM-feeds/AdministrativeEnheterKommuner_AtomFeedGEOJSON.fmw"&gt;Administrative enheter kommuner GEOJSON-format</content>
+    <link href="https://www.geonorge.no/geonetwork/srv/nor/xml_iso19139?uuid=041f1e6e-bdbc-4091-b48f-8a5990f3cc5b" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata"/>
+    <link rel="alternate" href="http://nedlasting.geonorge.no/fmedatastreaming/ATOM-feeds/AdministrativeEnheterKommuner_AtomFeedGEOJSON.fmw" type="application/atom+xml" title="Dataset feed"/>
+    <published>2015-11-05T14:38:49+01:00</published>
+  </entry>
+</feed>
